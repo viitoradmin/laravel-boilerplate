@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="113" viewBox="0 0 112 113">
+    <defs>
+        <filter id="enaa47cp8a" x="0" y="0" width="112" height="113" filterUnits="userSpaceOnUse">
+            <feOffset dy="6"/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-opacity=".141"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 19463">
+        <g style="filter:url(#enaa47cp8a)">
+            <ellipse data-name="Ellipse 624" cx="41" cy="41.5" rx="41" ry="41.5" transform="translate(15 8.998)" style="fill:#fff"/>
+        </g>
+        <g data-name="play-button-arrowhead (1)">
+            <path data-name="Path 16312" d="M12.718.623C10.171-.838 8.107.359 8.107 3.293v21.655c0 2.937 2.064 4.132 4.611 2.673l18.927-10.855c2.547-1.461 2.547-3.828 0-5.289z" transform="translate(37.858 36.371)" style="fill:#1b74e4"/>
+        </g>
+    </g>
+</svg>
